@@ -2,6 +2,7 @@ import React from 'react';
 import { zodiac } from '../../data.js';
 import ZodiacCard from '../Zodiacs/ZodiacCard.js';
 import backgroundImage from '../../assets/starry-night-design.jpg';
+import './Main.css';
 
 export default function Main() {
   return (
